@@ -1,2 +1,2 @@
 # itila
-Notes & exercises of David McKay's "Information theory, inference and learning algorithms" 
+Notes & exercises of David MacKay's "Information theory, inference and learning algorithms" 
